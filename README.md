@@ -49,13 +49,7 @@ I’m actively expanding my skills into **data science and analytics** through s
 - Dashboard building & reporting  
 - Statistical analysis fundamentals  
 - Portfolio-ready data projects  
-
 ---
-
-## 📂 Projects (Coming Soon)
-I’m building a set of clean, beginner-to-intermediate data projects:
-
-
 ## 📂 Projects (Coming Soon)
 
 I am currently developing a series of data-focused projects that demonstrate analytical capability, reproducibility, and practical problem-solving across both R and Python environments.
